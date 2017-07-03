@@ -1,5 +1,6 @@
 # The-Great-Vacuum-Race
-A simple 2-D game where you collect dustballs for CSC207 Software Design assignment
+A simple 2-D game where you collect dustballs for CSC207 Software Design assignment.
+Made in Fall 2015.
 
 ![alt text](images/in-game-image.JPG "In game snapshot")
 
