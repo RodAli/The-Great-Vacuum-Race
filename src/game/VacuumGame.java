@@ -127,9 +127,7 @@ public class VacuumGame {
      * @throws IOException
      */
     private int[] getDimensions(String layoutFileName) throws IOException {       
-    	File x = new File(layoutFileName);
-    	System.out.println(x);
-        Scanner sc = new Scanner(x);
+        Scanner sc = new Scanner(new File(layoutFileName));
 
         // find the number of columns
         String nextLine = sc.nextLine();
